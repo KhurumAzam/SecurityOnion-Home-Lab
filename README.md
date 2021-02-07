@@ -16,4 +16,6 @@ This took me roughly one month of cabling, racking, and configuring my lab. This
 
 Here's what I bought.
 
-* [Cisco WS-C2960-48TC-S Catalyst 48 Port Switch, 2 T/SFP Lan Lite Image] (https://www.amazon.com/gp/product/B07FK47BBW/ref=ox_sc_rp_title_rp_1?smid=&psc=1&pf_rd_p=49f1aa95-f8ba-472f-9207-fb1cd7a7e655&pd_rd_wg=k5eVy&pd_rd_i=B07FK47BBW&pd_rd_w=8rRES&pd_rd_r=c3986b03-a338-4ac4-a0a8-52670f2af01f)
+* [Cisco WS-C2960-48TC-S Catalyst 48 Port Switch, 2 T/SFP Lan Lite Image](https://www.amazon.com/gp/product/B07FK47BBW/ref=ox_sc_rp_title_rp_1?smid=&psc=1&pf_rd_p=49f1aa95-f8ba-472f-9207-fb1cd7a7e655&pd_rd_wg=k5eVy&pd_rd_i=B07FK47BBW&pd_rd_w=8rRES&pd_rd_r=c3986b03-a338-4ac4-a0a8-52670f2af01f)
+
+* [Bootstrap](https://getbootstrap.com)
