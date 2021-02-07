@@ -4,9 +4,11 @@
 
 This lab is primarily used for beginners learing Information Security and basic Networking. It gives idea of how enterprise SIEM (Security Information and Event Management) monitoring and alerting plays out in coporations.
 
+If anyone is taking the CCNA (Cisco Certified Networking Associate) and or CompTIA Network+, this is a perfect home lab to take on and learn security on the go.
+
 ## How much did my lab cost
 
-This cost me roughly 1,012.63 without adding tax and delivery.
+This cost me roughly $1,012.63 without adding tax and delivery. I've added a few optional purchases which enhanced my lab experience.
 
 ## How long did it take
 
@@ -14,7 +16,7 @@ This took me roughly one month of cabling, racking, and configuring my lab. This
 
 ## What did I purchase
 
-Here's what I bought.
+Here's what I bought. 
 
 ### Required
 
