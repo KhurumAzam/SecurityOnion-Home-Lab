@@ -46,4 +46,12 @@ Here's what I bought.
 
 * [StarTech.com 2U Server Rack Shelf - Universal Vented Cantilever Tray for 19" Network Equipment Rack & Cabinet - Heavy Duty Steel - 50lb - 16" Deep (CABSHELFV) Black](https://www.amazon.com/gp/product/B008X3JHJQ/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
+## Resources
 
+Here's a few materials and guides I've used during my project. Please support and assist creator of material.
+
+* [I.T Security Labs](https://www.youtube.com/channel/UCXPdZsu8g1nKerd-o5A75vA)
+
+* [Free Network Diagram Mapper](https://lucid.app)
+
+* [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)
